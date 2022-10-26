@@ -3,5 +3,5 @@
 - 💬 Ask me about CMS,SMM
 - 📫 How to reach me: [![SHAXRUX](https://img.shields.io/badge/VIPSHAKH-30302f?style=flat&logo=telegram)](https://t.me/VIPSHAKH) 
 - ⚡ Fun fact: I am a coder.
-- 🌐 My site: [vipshakh.ml](https://vipshakh.uz)
+- 🌐 My site: [vipshakh.ml](https://vipshakh.ml)
 
